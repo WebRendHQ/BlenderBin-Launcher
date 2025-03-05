@@ -11,5 +11,5 @@ BlenderBin is a centralized repository for Blender addons, providing users with 
 Client-side applications and websites reference `version.json` to determine the latest available version. This ensures users always install the most recent and stable release.
 
 ## License
-This project is privately licensed and is not available for public distribution.
+This project is available for public distribution.
 
