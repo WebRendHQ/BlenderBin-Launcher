@@ -1,4 +1,4 @@
-# BlenderBin Addon Library
+# BlenderBin Add-on Launcher
 
 ## Overview
 BlenderBin is a centralized repository for Blender addons, providing users with a single location to download and update their addons. The repository structure ensures that users always access the latest version of BlenderBin.
